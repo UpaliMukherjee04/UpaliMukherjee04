@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Upali, and I'm a student from Symbiosis Institute of Technology, Pune</p>
+<p align="left">My name is Upali, and I'm a 2nd year student from Symbiosis Institute of Technology, Pune. I am currently pursuing my Btech in Computer Science and Enginnering.</p>
 
 ###
 
@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently exploring domains</p>
-
+<p align="left">📚 Learning and growing everyday through new experiences and navigating through tech as a fresher in this field.</p>
 ###
 
 <h2 align="left">I code with</h2>
